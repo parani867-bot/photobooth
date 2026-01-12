@@ -1,0 +1,9 @@
+CAMERA_INDEX = 0
+
+PHOTO_MODES = ["Color", "BW"]
+PHOTO_COUNTS = [2, 4, 6]
+
+COUNTDOWN_SECONDS = 3
+
+PHOTOS_DIR = "photos"
+STRIPS_DIR = "strips"
